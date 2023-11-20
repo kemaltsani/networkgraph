@@ -1,0 +1,76 @@
+{
+	"nodes": [
+		{
+			"id": "11000148",
+			"title": "Zacky Fauzy",
+			"src": "./test-resources/sap/suite/ui/commons/demokit/images/people/female_IngallsB.jpg",
+			"supervisor": "",
+			"location": "Walldorf",
+			"position": "Global Solutions Manager",
+			"email": "sophie.dinter@example.com",
+			"phone": "+000 423 230 000"
+		},
+		{
+			"id": "11000387",
+			"title": "Helmi Sucipto",
+			"src": "./test-resources/sap/suite/ui/commons/demokit/images/people/male_GordonR.jpg",
+			"supervisor": "11000148",
+			"location": "Walldorf",
+			"position": "Lead Markets Manager",
+			"email": "yamasaki.ninsei@example.com",
+			"phone": "+000 423 230 002"
+		},
+		{
+			"id": "11000405",
+			"title": "Handa Zaelana",
+			"src": "./test-resources/sap/suite/ui/commons/demokit/images/people/male_MillerM.jpg",
+			"supervisor": "11000148",
+			"location": "Praha",
+			"position": "Sales Manager",
+			"email": "henry.mills@example.com",
+			"phone": "+000 423 232 003"
+		},
+		{
+			"id": "11000364",
+			"title": "Adam Polak",
+			"src": "./test-resources/sap/suite/ui/commons/demokit/images/people/male_PlatteR.jpg",
+			"supervisor": "11000148",
+			"location": "Praha",
+			"position": "Marketing Specialist",
+			"email": "adam.polak@example.com",
+			"phone": "+000 423 232 004"
+		},
+		{
+			"id": "11000388",
+			"title": "Adam Polak",
+			"src": "./test-resources/sap/suite/ui/commons/demokit/images/people/male_PlatteR.jpg",
+			"supervisor": "11000148",
+			"location": "Praha",
+			"position": "Marketing Specialist",
+			"email": "adam.polak@example.com",
+			"phone": "+000 423 232 004"
+		}		
+	],
+	"lines": [
+		{
+			"id": "",
+			"from": "11000148",
+			"to": "11000387"
+		},
+		{
+			"id": "",
+			"from": "11000148",
+			"to": "11000405"
+		},
+		{
+			"id": "",
+			"from": "11000148",
+			"to": "11000364"
+		},		
+		{
+			"id": "",
+			"from": "11000148",
+			"to": "11000388"
+		}
+	]
+}
